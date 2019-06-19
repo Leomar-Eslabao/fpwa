@@ -1,13 +1,9 @@
 {
-  
-  "name": "Gato",  
-  "short_name": "Gato", 
-  "theme_color": "#ff9900", 
-  "background_color": "#ffc266",
-  "display": "fullscreen", 
-  "Scope": "./",
-  "start_url": "/PWA/index.html", 
-  
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "browser",
+  "Scope": "/",
+  "start_url": "/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
