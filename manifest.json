@@ -6,7 +6,7 @@
   "background_color": "#ffc266",
   "display": "fullscreen", 
   "Scope": "./",
-  "start_url": "/PWA/index.html", 
+  "start_url": "/git/index.html", 
   
   "icons": [
     {
