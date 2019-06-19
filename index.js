@@ -1,5 +1,5 @@
 if ('serviceWorker' in navigator) { //Verifica se consegue registrar o SW
-    navigator.serviceWorker.register('/git/sw.js')
+    navigator.serviceWorker.register('/pwa/sw.js')
       .then(function () {
         console.log('service worker registered');  
       })
