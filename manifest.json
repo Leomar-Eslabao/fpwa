@@ -6,7 +6,7 @@
   "background_color": "#ffc266",
   "display": "fullscreen", 
   "Scope": "./",
-  "start_url": "https://leomar-eslabao.github.io/pwa/index.html", 
+  "start_url": "/pwa/index.html", 
   
   "icons": [
     {
